@@ -1,5 +1,5 @@
 # Firebase Remote Config with Golang
-A simple example og using the Firebase Remote Config REST API.
+A simple example of using the Firebase Remote Config REST API.
 
 # Setup
 1. Create service account from your **Firebase Console -> Project Settings -> Service Account** and download the JSON file.
