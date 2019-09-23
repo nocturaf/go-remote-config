@@ -15,6 +15,7 @@ A simple example og using the Firebase Remote Config REST API.
   - Etag also stored in **etag.txt** it is for publishing new template.
   
 - Publish Template (operation number 2)
+  - Make sure you've get the latest active template first to generate the `config.json` and `etag.txt` files.
   - If you want to change or add a new template/key-value, edit the `config.json` file
   - Publish new template using operation number 2.
   
