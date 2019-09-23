@@ -24,7 +24,7 @@ A simple example og using the Firebase Remote Config REST API.
   - `config.json` template will be change based on version you choose.
   
 - Show version list (operation number 4) 
-  - You can print list of version you have in firebase console, the printed version size depends on your input size.
+  - You can print list of version you have in firebase console, length of the printed list depends on your input size.
  
 # Etags
 
