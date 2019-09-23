@@ -2,7 +2,7 @@
 A simple example og using the Firebase Remote Config REST API.
 
 # Setup
-1. Create service account from your Firebase Console -> Service Account and download the JSON file.
+1. Create service account from your **Firebase Console -> Project Settings -> Service Account** and download the JSON file.
 2. Copy the JSON credential to root directory of the project and rename it as `service-account.json`
 3. Change `PROJECT_ID` variable in **app.go** to your firebase project id.
 
